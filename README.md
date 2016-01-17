@@ -11,6 +11,7 @@ The dictionary_address is the url to a text file with a list of words, each in a
 ## Dependencies
 
 common.jar and jsch-0.1.53.jar
+
 The manifest file needs to declare the path to the starting classes as well as the command the plugin responds to.
 		
 	Manifest-Version: 1.0
